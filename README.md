@@ -1,1 +1,3 @@
 # pencitraanWarna
+
+monggo di copy kalo males ngetik yang ada didepan..................
